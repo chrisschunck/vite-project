@@ -1,4 +1,4 @@
-# 🚀 Nome do Projeto
+# 🚀 Portifólio Project
 
 Uma breve descrição do projeto:  
 Este é um projeto desenvolvido com foco em React, que visa aprofundar o conhecimento. O sistema permite vizualizar um portifólio.
